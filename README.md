@@ -28,7 +28,7 @@ Steps to execute -
 5.To see details of record click on "First Name" of record.
 
 Built With - 
-Technologies - .NET Framework 4.6.1, C#, SQL, Jquery, BootStrap, AJAX, WEBAPI,EntityFramework, LinQ
+Technologies - .NET Framework 4.6.1, C#, SQL, Jquery, BootStrap, AJAX, WEBAPI, EntityFramework, LinQ 
 
 Project Structure
 
